@@ -36,5 +36,6 @@ This approach aims to improve resource utilization and support farmers in diffic
 
 For complete system design and working, refer to the project presentation:
 
-[View Project Presentation](./SIH_Smart_Agriculture_Presentation.pdf)
+[View Project Presentation](smart_agriculture_hilly_regions
+/SIH2025-IDEA-Presentation-Format.pptx (1).pdf)
 
