@@ -41,5 +41,11 @@ For complete system design and working, refer to the project presentation:
 [View Project Presentation](./SIH2025-IDEA-Presentation-Format.pptx%20(1).pdf)
 
 ---
+
 ## Project Demo
 https://youtu.be/Lp_i9Qd3LrU?si=c9ojEmB-jZXfTwsz
+
+---
+
+## Selection Confirmation 
+[View confirmation mail ](./Sih_selection_confirmation.jpg)
