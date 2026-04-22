@@ -3,6 +3,7 @@ Smart Agriculture System for Hilly Regions (SIH 2025)
 **Problem Statement ID:** SIH25062
 
 ---
+**Team Name:** SLASHA
 
 ## Problem Description
 
