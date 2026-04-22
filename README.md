@@ -36,5 +36,5 @@ This approach aims to improve resource utilization and support farmers in diffic
 
 For complete system design and working, refer to the project presentation:
 
-[View Project Presentation](/.SIH2025-IDEA-Presentation-Format.pptx (1).pdf)
+[View Project Presentation](./SIH2025-IDEA-Presentation-Format.pptx (1).pdf)
 
